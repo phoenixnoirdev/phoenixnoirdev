@@ -1,7 +1,5 @@
 <h1 align="center">Bonjour 👋, Bienvenue sur mon profil Github</h1>
 
----
-
 <p align="center" ><b>langages utilisés</b></p>
 <p align="center">
 	<a href="https://github.com/anuraghazra/github-readme-stats">
